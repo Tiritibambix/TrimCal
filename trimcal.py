@@ -1,4 +1,4 @@
-# file: filter_ics_events.py
+# file: trimcal.py
 
 from datetime import datetime
 
