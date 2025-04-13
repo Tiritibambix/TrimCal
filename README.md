@@ -77,4 +77,4 @@ Filtered file written to: filtered.ics
 
 ## License
 
-GPL 3
+GNU General Public License v3.0
