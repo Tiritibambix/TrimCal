@@ -1,7 +1,4 @@
 # TrimCal
-A minimal Python script to filter out past events from an .ics calendar file without any external dependencies.
-
-# Filter ICS Events
 
 A Python script to filter out past events from an `.ics` (iCalendar) file, keeping only those that occur on or after a specified threshold date.
 
